@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LaSalle_DDM1_Ex2_TresEnRaya</string>
+
+    <string name="player_1">Player 1 turn</string>
+    <string name="player_2">Player 2 turn</string>
+    <string name="player1_won">Player 1 won</string>
+    <string name="player2_won">Player 2 won</string>
+
+    <string name="used_cell">Cell already used</string>
+    <string name="game_ended">Game ended</string>
+    <string name="cell_content_description">Cell</string>
+</resources>
